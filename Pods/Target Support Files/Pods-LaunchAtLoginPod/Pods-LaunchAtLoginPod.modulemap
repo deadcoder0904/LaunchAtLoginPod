@@ -1,0 +1,6 @@
+framework module Pods_LaunchAtLoginPod {
+  umbrella header "Pods-LaunchAtLoginPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LaunchAtLogin (2.2.0)
+
+DEPENDENCIES:
+  - LaunchAtLogin
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LaunchAtLogin
+
+SPEC CHECKSUMS:
+  LaunchAtLogin: 7901f9a3bbfe9e1ea665407d04f4c39ac46fc833
+
+PODFILE CHECKSUM: 4ea7adc2e37281cc34429e45de0b01152340e68a
+
+COCOAPODS: 1.5.3
