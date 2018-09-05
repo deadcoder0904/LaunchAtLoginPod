@@ -49,7 +49,10 @@
 				BDCB9BA4BB2546CC24A1B7B8 /* Pods */,
 				2709BC63F818FAC60865D456 /* Frameworks */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 1;
 		};
 		1808D97E213D193B00F57B3C /* Products */ = {
 			isa = PBXGroup;
@@ -169,8 +172,8 @@
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "./Pods/LaunchAtLogin/LaunchAtLogin/copy-helper.sh";
+			shellPath = "/Volumes/Coding/Code/Swift/LaunchAtLoginPod/Pods/LaunchAtLogin/LaunchAtLogin/copy-helper.sh";
+			shellScript = "";
 		};
 		E1CBE0615022FCEA4EE750CE /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
